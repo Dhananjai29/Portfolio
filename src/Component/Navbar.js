@@ -8,7 +8,7 @@ const Navbar = () => {
     <>
       <nav>
         <div className="links">
-            <Link to='/' className='link'><Home />&nbsp;&nbsp;&nbsp;&nbsp;<span>Home</span></Link>
+            <Link to='/portfolio' className='link'><Home />&nbsp;&nbsp;&nbsp;&nbsp;<span>Home</span></Link>
             <Link to='about' className='link'><User />&nbsp;&nbsp;&nbsp;&nbsp;<span>About Me</span></Link>
             <p>Socials</p>
             <Link to='https://twitter.com/Dhananj34872012' target='_blank' className='link facebook'><Twitter />&nbsp;&nbsp;&nbsp;&nbsp;<span>Twitter</span></Link>
